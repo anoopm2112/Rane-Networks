@@ -1,0 +1,41 @@
+export const ROUTE_KEYS = {
+    SPLASH_PAGE: 'splashPage',
+    WELCOME_PAGE: 'welcomePage',
+    LOGIN_PAGE: 'loginPage',
+    MY_WALL_TAB: 'myWallTab',
+    ACCOUNT_SETTINGS_TAB: 'accountSettingsTab',
+    DIGEST_LIST_PAGE: 'digestListPage',
+    SOURCES_PAGE: 'sourcesPage',
+    SEARCH_LIST_PAGE: 'searchListPage',
+    ARTICLE_LIST_PAGE: 'articleListPage',
+    MY_SAVED_LIST_PAGE: 'MySavedListPage',
+    MY_SAVED_ARTICLE_LIST_PAGE: 'MySavedArticleListPage',
+    MY_SAVED_BRIEF_LIST_PAGE: 'MySavedBriefListPage',
+    CONTACT_RANE: 'contact',
+    ACCOUNT_SETTINGS_PAGE: 'accountSettingsPage',
+    ABOUT_US: 'aboutus',
+    MY_SAVED_LIST_TAB: 'mySavedListTab',
+    ABOUT_LINK_PAGE: 'AboutLinkPage',
+    MY_SAVED_LINK_PAGE: 'AboutLinkPage'
+};
+
+export const SCREEN_CLASS = {
+    SPLASH_PAGE: 'splashPage',
+    WELCOME_PAGE: 'welcomePage',
+    LOGIN_PAGE: 'loginPage',
+    MY_WALL_TAB: 'myWallTab',
+    ACCOUNT_SETTINGS_TAB: 'accountSettingsTab',
+    DIGEST_LIST_PAGE: 'DigestListPage',
+    SOURCES_PAGE: 'SourcesPage',
+    SEARCH_LIST_PAGE: 'SearchPage',
+    ARTICLE_LIST_PAGE: 'ArticleListPage',
+    MY_SAVED_LIST_PAGE: 'MySavedListPage',
+    MY_SAVED_ARTICLE_LIST_PAGE: 'MySavedArticleListPage',
+    MY_SAVED_BRIEF_LIST_PAGE: 'MySavedBriefListPage',
+    CONTACT_RANE: 'contact',
+    ACCOUNT_SETTINGS_PAGE: 'accountSettingsPage',
+    ABOUT_US: 'aboutus',
+    MY_SAVED_LIST_TAB: 'mySavedListTab',
+    ABOUT_LINK_PAGE: 'AboutLinkPage',
+    MY_SAVED_LINK_PAGE: 'AboutLinkPage'
+};

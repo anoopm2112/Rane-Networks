@@ -1,0 +1,2 @@
+export const LOGOUT_STATUS_CODE = 204;
+export const SUCCESS_STATUS_CODE = 200
